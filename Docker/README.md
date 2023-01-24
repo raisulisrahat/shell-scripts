@@ -1,0 +1,1 @@
+This script only for ubuntu server
